@@ -1,0 +1,22 @@
+table, th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-style: groove;
+    margin: auto;
+    width: auto;
+    word-wrap: break-word;
+    text-align: center
+
+}
+td{
+    padding: 0.5px;
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+main{
+    font-family: Arial, Helvetica, sans-serif;;text-align: center;
+}
+p{
+    text-align: center
+}
